@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[schillerphotographic]]></title>
+        <description><![CDATA[schillerphotographic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 19:01:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Groovin' at the Mansion - July 14th, 2016]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b48ba17-ec32-43b1-895e-f0acd4af45ac.jpg">]]></description>
+            <link>undefinedgroovin-at-the-mansion-july-14th-2016/index.html</link>
+            <guid isPermaLink="false">2e461729-b806-4ae8-a3ea-9aba1629cc46</guid>
+            <pubDate>Fri, 15 Jul 2016 19:01:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
